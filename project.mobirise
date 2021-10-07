@@ -48,8 +48,8 @@
     "uniqCompNum": 47,
     "versionPublish": "5.3.0",
     "screenshot": "screenshot.png",
-    "favicon": false,
-    "mbrsiteDomain": "r1ea6dn3fj",
+    "favicon": "@PROJECT_PATH@/assets/images/page-1-logo-redjo-lama-1-848x848-128x144.png",
+    "mbrsiteDomain": "ufcxfa6r6t",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
@@ -78,7 +78,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Redjo trans",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
